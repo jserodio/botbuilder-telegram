@@ -1,2 +1,4 @@
 # botbuilder-telegram
-Microsoft Bot Builder Telegram Integration
+Connect your Bot to Telegram 
+
+

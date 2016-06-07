@@ -1,0 +1,29 @@
+{
+  "name": "botbuilder-telegram",
+  "version": "0.0.1",
+  "description": "Connect your Bot to Telegram",
+  "main": "telegramBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anstick/botbuilder-telegram.git"
+  },
+  "keywords": [
+    "botbuilder",
+    "telegram",
+    "microsoft"
+  ],
+  "author": "anstick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anstick/botbuilder-telegram/issues"
+  },
+  "homepage": "https://github.com/anstick/botbuilder-telegram#readme",
+  "dependencies": {
+    "botbuilder": "^1.0.1",
+    "node-telegram-bot-api": "^0.23.3",
+    "underscore": "^1.8.3"
+  }
+}
